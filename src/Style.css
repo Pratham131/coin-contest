@@ -1,0 +1,12 @@
+
+
+table, th, td {
+    text-align: center;
+    border: 1px solid;
+    padding: 2px 5px;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
+}
